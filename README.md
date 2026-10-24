@@ -23,7 +23,7 @@ The portfolio includes a personal introduction, a photography section, and proje
 
 ## Getting Started
 1. Open the [Github Pages website](https://fedevxyz.github.io/MyGreatPortfolio)
-
+or
 2. Serve in localhost
 Make sure you have [Node.js](https://nodejs.org/) and npm installed.
 
